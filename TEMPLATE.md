@@ -4,7 +4,7 @@
 **Affected Version:** [Version / Commit]  
 **Severity:** [Critical / High / Medium / Low] ([CVSS Score])  
 **CVSS:** [CVSS Vector String]  
-**CWE:** [CWE-ID: Weakness Name]  
+**Weakness:** [CWE-ID: Weakness Name]  
 **CVE:** [CVE ID / Pending / Not Assigned]
 
 ## Summary
